@@ -1,1 +1,1 @@
-# reatil-sales-dwh
+# retail-sales-dwh
