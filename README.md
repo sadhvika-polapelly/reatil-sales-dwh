@@ -26,22 +26,18 @@ The project includes:
 
 retail-sales-dwh/
 
-├── Project Setup
+- Project Setup
+- Archive
+- Bronze
+- Silver
+   -Silver Layer
+   -Data Quality Checks
+- Gold
+   -Gold Layer
+   -Validation Checks
+   -Business Analytics
 
-├── Archive
-
-├── Bronze
-
-├── Silver
-│ ├── Silver Layer
-│ └── Data Quality Checks
-
-├── Gold
-│ ├── Gold Layer
-│ ├── Validation Checks
-│ └── Business Analytics
-
-└── README.md
+-README.md
 
 ## Schemas Created
 
